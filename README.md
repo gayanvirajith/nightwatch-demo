@@ -22,7 +22,7 @@ All your test suites are located in `tests` folder. You can execute the test run
 `nightwatch tests/simplifya-login.js`
 
 
-3. Export environment following variables
+3. Export following environment variables
 
 `SIMPLIFYA_LOGIN_EMAIL=youremail@gmail.com`
 
