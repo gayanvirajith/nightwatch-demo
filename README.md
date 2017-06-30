@@ -17,7 +17,7 @@ Nightwatch.js is an automated testing framework for web applications and website
 
 #### How to run
 
-You can do the test runner by using following command:
+All your test suites are located in `tests` folder. You can execute the test runner by using following command:
 
 `nightwatch tests/simplifya-login.js`
 
