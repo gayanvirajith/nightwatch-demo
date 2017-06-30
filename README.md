@@ -1,4 +1,4 @@
-### E2E Test using Nightwatch
+### E2E Testing using Nightwatch
 
 ## Nightwatch
 
