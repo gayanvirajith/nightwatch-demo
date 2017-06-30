@@ -24,5 +24,6 @@ You can do the test runner by using following command:
 
 3. Export environment following variables
 
-SIMPLIFYA_LOGIN_EMAIL=youremail@gmail.com
-SIMPLIFYA_LOGIN_PASSWORD=yourpassword
+`SIMPLIFYA_LOGIN_EMAIL=youremail@gmail.com`
+
+`SIMPLIFYA_LOGIN_PASSWORD=yourpassword`
